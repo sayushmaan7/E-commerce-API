@@ -1,0 +1,31 @@
+.navbar-container {
+    height: 2.5rem;
+    background-color: rgb(218, 198, 198);
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    z-index: 11;
+}
+
+.logo {
+    font-weight: 700;
+}
+
+.cart-info {
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    background-color: #ffffff;
+    margin-right: 7rem;
+}
+
+.cart-navlink {
+    margin-left: 8px;
+    font-weight: 500;
+}
+
+.cartCount {
+    padding-right: 5px;
+    margin-right: 5px;
+    /* background-color: yellow; */
+    margin-left: 10px;
+}
